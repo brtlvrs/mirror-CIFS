@@ -17,4 +17,3 @@ This script is released under the MIT license. See the License file for more det
 #### Dependencies
 
 	- PowerShell 3.0
-	- PowerCLI > 5.x
