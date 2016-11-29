@@ -19,7 +19,7 @@
     File Name      : Mirror-CIFS.ps1
     Author         : B. Lievers
     Prerequisite   : PowerShell V2 over Vista and upper.
-    License        : MIT
+    License        : MIT license
     Copyright 2015 - Bart Lievers
 #>
 [CmdletBinding()]
