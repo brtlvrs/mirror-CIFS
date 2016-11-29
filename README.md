@@ -1,5 +1,5 @@
-**build-vmHostImage**
-PowerCLI workflow script for building VMware vSphere ESXi images
+**mirror-CIFS**
+Robocopy on steroids.
 
 ### LICENSE
 This script is released under the MIT license. See the License file for more details
