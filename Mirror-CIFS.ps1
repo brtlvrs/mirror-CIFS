@@ -13,10 +13,13 @@
     The CSV must have the semicolon as a delimiter (easier to edit with Excel)
 .EXAMPLE
     >Mirror-CIFS
+.LINK
+    git repository - https://github.com/brtlvrs/mirror-CIFS
 .NOTES
     File Name      : Mirror-CIFS.ps1
     Author         : B. Lievers
     Prerequisite   : PowerShell V2 over Vista and upper.
+    License        : MIT
     Copyright 2015 - Bart Lievers
 #>
 [CmdletBinding()]
